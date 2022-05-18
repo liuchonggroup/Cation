@@ -1,0 +1,24 @@
+T1 *CONN
+NFRAG 1
+ELDEF NM = HD B C Si N P As O S Se Te 7A 8A
+ELDEF QA = NM - H D
+AT1 N 3                :XY  127  196
+AT2 C 4                :XY  77  146
+AT3 C 4                :XY  163  134
+AT4 QA 1                :XY  127  270
+AT5 H 1                :XY  201  196
+AT6 H 1                :XY  234  115
+AT7 H 1                :XY  129  72
+AT8 H 1                :XY  127  96
+AT9 H 1                :XY  45  96
+AT10 H 1                :XY  45  208
+BO 2 9 1 
+BO 3 7 1 
+BO 3 6 1 
+BO 1 3 1 
+BO 1 4 99 
+BO 3 5 1 
+BO 1 2 1 
+BO 2 10 1 
+BO 2 8 1 
+END

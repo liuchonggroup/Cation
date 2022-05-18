@@ -1,0 +1,14 @@
+T1 *CONN
+NFRAG 1
+ELDEF DD = C HD
+ELDEF QA = 4M H
+AT1 DD 1                :XY  45  132
+AT2 P 4                :XY  105  132
+AT3 O 1                :XY  105  72
+AT4 O 1                :XY  165  132
+AT5 O 1                :XY  105  192
+BO 2 4 1 
+BO 2 5 1 
+BO 2 3 2 
+BO 1 2 1 
+END

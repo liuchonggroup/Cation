@@ -1,0 +1,11 @@
+T1 *CONN
+NFRAG 1
+ELDEF QB = 4M H
+AT1 C 1                :XY  45  72
+AT2 N 3                :XY  105  72
+AT3 H 1                :XY  135  124
+AT4 H 1                :XY  147  30
+BO 2 3 1 
+BO 2 4 1 
+BO 1 2 1 
+END

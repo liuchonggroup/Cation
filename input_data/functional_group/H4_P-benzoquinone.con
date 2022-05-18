@@ -1,0 +1,19 @@
+T1 *CONN
+NFRAG 1
+AT1 C 3                :XY  300  211
+AT2 C 2                :XY  248  241
+AT3 C 2                :XY  248  301
+AT4 C 3                :XY  300  331
+AT5 C 2                :XY  351  301
+AT6 C 2                :XY  351  241
+AT7 O 1                :XY  300  151
+AT8 O 1                :XY  300  391
+BO 4 5 1 
+BO 1 2 1 
+BO 6 1 1 
+BO 2 3 2 
+BO 4 8 2 
+BO 3 4 1 
+BO 1 7 2 
+BO 5 6 2 
+END

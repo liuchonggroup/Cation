@@ -1,0 +1,11 @@
+T1 *CONN
+NFRAG 1
+ELDEF QA = C N
+AT1 QA 1                :XY  45  148
+AT2 C 3                :XY  103  132
+AT3 QA 1                :XY  161  148
+AT4 O 1                :XY  103  72
+BO 1 2 1 
+BO 2 3 1 
+BO 2 4 2 
+END

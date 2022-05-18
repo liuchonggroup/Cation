@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+Li-AQAVEW-33
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 H18     15.0960  15.8468  20.8367   H         1 RES1   0.0000
+     2 Li4     13.7242  14.2866  20.1413   Li        1 RES1   0.0000
+@<TRIPOS>BOND
+     1     2     1    1
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  

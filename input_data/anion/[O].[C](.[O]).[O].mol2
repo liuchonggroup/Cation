@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+01
+     4     3     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 O1       5.2997   1.2957   2.3950   O.co2     1 RES1   0.0000
+     2 C1       5.3000   0.0000   2.3950   C.2       1 RES1   0.0000
+     3 O2       4.1780  -0.6481   2.3950   O.co2     1 RES1   0.0000
+     4 O3       6.4223  -0.6476   2.3950   O.co2     1 RES1   0.0000
+@<TRIPOS>BOND
+     1     2     1   un
+     2     4     2   un
+     3     2     3   un
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
